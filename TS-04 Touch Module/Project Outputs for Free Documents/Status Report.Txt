@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [TS04.PcbDoc]
+   Generated File[Bill of Materials-TS04.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÀü 11:07:41 On 2025-06-11

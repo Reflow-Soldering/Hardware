@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+\\192.168.220.200\연구소 회로\00.UNIL_Work\1. Project\Test Modules\TS-04 Touch Module\Project Outputs for TS-04 Touch Module\Pick Place\Pick Place for TS04.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11-06-25
+Time:       11:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                   Layer    Footprint       Center-X(mil) Center-Y(mil) Rotation Description                                                
+HOLE4      Hole                      TopLayer 1.4_pie         196.850       1771.653      0        ""                                                         
+HOLE3      Hole                      TopLayer 1.4_pie         2952.756      1771.653      0        ""                                                         
+HOLE2      Hole                      TopLayer 1.4_pie         196.850       196.850       0        ""                                                         
+HOLE1      Hole                      TopLayer 1.4_pie         2952.756      196.850       0        ""                                                         
+T4         TouchPad                  TopLayer TOUCHPAD        2480.157      314.961       0        ""                                                         
+T3         TouchPad                  TopLayer TOUCHPAD        1850.236      314.961       0        ""                                                         
+T2         TouchPad                  TopLayer TOUCHPAD        1259.685      314.961       0        ""                                                         
+T1         TouchPad                  TopLayer TOUCHPAD        669.134       314.961       0        ""                                                         
+LED4       LED                       TopLayer LED/SMD1608     1692.913      1259.842      180      ""                                                         
+LED3       LED                       TopLayer LED/SMD1608     1929.134      1259.842      180      ""                                                         
+LED2       LED                       TopLayer LED/SMD1608     2165.354      1259.842      180      ""                                                         
+LED1       LED                       TopLayer LED/SMD1608     2401.575      1259.842      180      ""                                                         
+U1         "Capacitive Touch Sensor" TopLayer TS04_SOP14      925.197       1437.008      0        "Capacitive Touch Sensor from AD Semiconductor SOP14 Type" 
+R13        200R/1608                 TopLayer R1608           2480.315      728.356       90       "SMD TYPE RESISTOR"                                        
+R12        200R/1608                 TopLayer R1608           1850.394      728.356       90       "SMD TYPE RESISTOR"                                        
+R11        2K                        TopLayer R1608           1535.433      1299.203      270      "SMD TYPE RESISTOR"                                        
+R10        510K                      TopLayer R1608           719.971       1487.008      0        "SMD TYPE RESISTOR"                                        
+R9         2K                        TopLayer R1608           1456.693      1299.203      270      "SMD TYPE RESISTOR"                                        
+R8         200R/1608                 TopLayer R1608           1259.842      728.356       90       "SMD TYPE RESISTOR"                                        
+R7         2K                        TopLayer R1608           1377.953      1299.203      270      "SMD TYPE RESISTOR"                                        
+R6         2K                        TopLayer R1608           1299.213      1299.203      270      "SMD TYPE RESISTOR"                                        
+R5         10K                       TopLayer R1608           1181.102      1732.293      90       "SMD TYPE RESISTOR"                                        
+R4         10K                       TopLayer R1608           1259.842      1732.293      90       "SMD TYPE RESISTOR"                                        
+R3         10K                       TopLayer R1608           1338.583      1732.293      90       "SMD TYPE RESISTOR"                                        
+R2         10K                       TopLayer R1608           1417.323      1732.293      90       "SMD TYPE RESISTOR"                                        
+R1         200R/1608                 TopLayer R1608           669.291       728.356       90       "SMD TYPE RESISTOR"                                        
+J7         CON3                      TopLayer HEADER_V254_1X3 1692.913      1496.063      270      ""                                                         
+J6         CON3                      TopLayer HEADER_V254_1X3 1929.134      1496.063      270      ""                                                         
+J5         CON5                      TopLayer HEADER_V254_1X5 1968.504      1811.024      180      ""                                                         
+J4         CON3                      TopLayer HEADER_V254_1X3 2165.354      1496.063      270      ""                                                         
+J3         CON3                      TopLayer HEADER_V254_1X3 2401.575      1496.063      270      ""                                                         
+J2         CON2                      TopLayer HEADER_V254_1X2 295.276       1082.677      0        ""                                                         
+J1         CON2                      TopLayer HEADER_V254_1X2 295.276       1377.953      0        ""                                                         
+C6         10p/50V                   TopLayer C1608           2507.884      830.709       0        "SMD TYPE CAPACITOR"                                       
+C5         10p/50V                   TopLayer C1608           1877.963      830.709       0        "SMD TYPE CAPACITOR"                                       
+C4         10p/50V                   TopLayer C1608           1287.411      830.709       0        "SMD TYPE CAPACITOR"                                       
+C3         1uF                       TopLayer C1608           688.976       1590.541      270      "SMD TYPE CAPACITOR"                                       
+C2         100nF/50V                 TopLayer C1608           748.032       1590.561      90       "SMD TYPE CAPACITOR"                                       
+C1         10p/50V                   TopLayer C1608           696.860       830.709       0        "SMD TYPE CAPACITOR"                                       

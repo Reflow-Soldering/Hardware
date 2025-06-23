@@ -1,0 +1,36 @@
+Added Component: Designator=LED1(LED/SMD1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED/SMD1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED/SMD1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED/SMD1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T1(TOUCHPAD)
+Added Component: Designator=T2(TOUCHPAD)
+Added Component: Designator=T3(TOUCHPAD)
+Added Component: Designator=T4(TOUCHPAD)
+Added Pin To Net: NetName=OUT1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=OUT2 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=OUT3 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=OUT4 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetR1_1 Pin=T1-1
+Added Pin To Net: NetName=NetR8_1 Pin=T2-1
+Added Pin To Net: NetName=NetR12_1 Pin=T3-1
+Added Pin To Net: NetName=NetR13_1 Pin=T4-1
+Added Member To Class: ClassName=TS04 Member=Component LED1 LED
+Added Member To Class: ClassName=TS04 Member=Component LED2 LED
+Added Member To Class: ClassName=TS04 Member=Component LED3 LED
+Added Member To Class: ClassName=TS04 Member=Component LED4 LED
+Added Member To Class: ClassName=TS04 Member=Component T1 TouchPad
+Added Member To Class: ClassName=TS04 Member=Component T2 TouchPad
+Added Member To Class: ClassName=TS04 Member=Component T3 TouchPad
+Added Member To Class: ClassName=TS04 Member=Component T4 TouchPad

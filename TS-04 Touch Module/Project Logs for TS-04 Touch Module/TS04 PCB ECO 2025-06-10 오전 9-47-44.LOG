@@ -1,0 +1,12 @@
+Added Component: Designator=HOLE1(0.8_pie)
+Added Component: Designator=HOLE2(0.8_pie)
+Added Component: Designator=HOLE3(0.8_pie)
+Added Component: Designator=HOLE4(0.8_pie)
+Added Member To Class: ClassName=TS04 Member=Component HOLE1 Hole
+Added Member To Class: ClassName=TS04 Member=Component HOLE2 Hole
+Added Member To Class: ClassName=TS04 Member=Component HOLE3 Hole
+Added Member To Class: ClassName=TS04 Member=Component HOLE4 Hole
+Added Member To Class: ClassName=TS04 Member=Component T1 TouchPad
+Added Member To Class: ClassName=TS04 Member=Component T2 TouchPad
+Added Member To Class: ClassName=TS04 Member=Component T3 TouchPad
+Added Member To Class: ClassName=TS04 Member=Component T4 TouchPad

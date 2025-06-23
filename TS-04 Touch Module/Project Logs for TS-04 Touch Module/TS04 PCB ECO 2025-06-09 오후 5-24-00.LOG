@@ -1,0 +1,196 @@
+Added Component: Designator=C1(C1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HEADER_V254_1X2)
+Added Component: Designator=J2(HEADER_V254_1X2)
+Added Component: Designator=J3(HEADER_V254_1X2)
+Added Component: Designator=J4(HEADER_V254_1X2)
+Added Component: Designator=J5(HEADER_V254_1X5)
+Added Component: Designator=J6(HEADER_V254_1X2)
+Added Component: Designator=J7(HEADER_V254_1X2)
+Added Component: Designator=LED1(LED/SMD1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED/SMD1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED/SMD1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED/SMD1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R1608)
+Add component (AddParameter): Name = "Manufacturer #1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100"; VariantName = "[No Variations]"
+Add component: Footprint Not Found TOUCHPAD
+Add component: Footprint Not Found TOUCHPAD
+Add component: Footprint Not Found TOUCHPAD
+Add component: Footprint Not Found TOUCHPAD
+Added Component: Designator=U1(TS04_SOP14)
+Added Pin To Net: NetName=EXT1 Pin=J3-2
+Added Pin To Net: NetName=EXT1 Pin=J5-1
+Added Net: Name=EXT1
+Added Pin To Net: NetName=EXT2 Pin=J4-2
+Added Pin To Net: NetName=EXT2 Pin=J5-2
+Added Net: Name=EXT2
+Added Pin To Net: NetName=EXT3 Pin=J5-3
+Added Pin To Net: NetName=EXT3 Pin=J6-2
+Added Net: Name=EXT3
+Added Pin To Net: NetName=EXT4 Pin=J5-4
+Added Pin To Net: NetName=EXT4 Pin=J7-2
+Added Net: Name=EXT4
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R6-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R7-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R9-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R11-2
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-3
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=OUT1 Pin=J3-1
+Added Pin To Net: NetName=OUT1 Pin=LED1-1
+Added Pin To Net: NetName=OUT1 Pin=R2-1
+Added Pin To Net: NetName=OUT1 Pin=U1-10
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=J4-1
+Added Pin To Net: NetName=OUT2 Pin=LED2-1
+Added Pin To Net: NetName=OUT2 Pin=R3-1
+Added Pin To Net: NetName=OUT2 Pin=U1-11
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=J6-1
+Added Pin To Net: NetName=OUT3 Pin=LED3-1
+Added Pin To Net: NetName=OUT3 Pin=R4-1
+Added Pin To Net: NetName=OUT3 Pin=U1-13
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4 Pin=J7-1
+Added Pin To Net: NetName=OUT4 Pin=LED4-1
+Added Pin To Net: NetName=OUT4 Pin=R5-1
+Added Pin To Net: NetName=OUT4 Pin=U1-14
+Added Net: Name=OUT4
+Added Pin To Net: NetName=TOUCH1 Pin=C1-1
+Added Pin To Net: NetName=TOUCH1 Pin=R1-2
+Added Pin To Net: NetName=TOUCH1 Pin=U1-4
+Added Net: Name=TOUCH1
+Added Pin To Net: NetName=TOUCH2 Pin=C4-1
+Added Pin To Net: NetName=TOUCH2 Pin=R8-2
+Added Pin To Net: NetName=TOUCH2 Pin=U1-5
+Added Net: Name=TOUCH2
+Added Pin To Net: NetName=TOUCH3 Pin=C5-1
+Added Pin To Net: NetName=TOUCH3 Pin=R12-2
+Added Pin To Net: NetName=TOUCH3 Pin=U1-6
+Added Net: Name=TOUCH3
+Added Pin To Net: NetName=TOUCH4 Pin=C6-1
+Added Pin To Net: NetName=TOUCH4 Pin=R13-2
+Added Pin To Net: NetName=TOUCH4 Pin=U1-9
+Added Net: Name=TOUCH4
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=R7-1
+Added Pin To Net: NetName=VCC Pin=R9-1
+Added Pin To Net: NetName=VCC Pin=R11-1
+Added Pin To Net: NetName=VCC Pin=U1-2
+Added Net: Name=VCC
+Added Class: Name=TS04
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
